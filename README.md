@@ -4,7 +4,7 @@ Different Ways for Scaping Data :
 Project 1:
 Web Scrapping from Local File : https://github.com/Abhilash-Jose/Web-Scrapping/blob/main/Web%20Scrapping%20from%20Local%20File.ipynb
 
-Local File: 
+Local File: https://github.com/Abhilash-Jose/Web-Scrapping/blob/main/Website.html
 
 <b> Objective:</b>
 In this project, I conducted web scraping using data from a local file with the `open` function in conjunction with Beautiful Soup. The objective was to extract course names along with their respective fees.
