@@ -2,7 +2,8 @@
 Different Ways for Scaping Data :
 
 Project 1:
-Web Scrapping from Local File : 
+Web Scrapping from Local File : https://github.com/Abhilash-Jose/Web-Scrapping/blob/main/Web%20Scrapping%20from%20Local%20File.ipynb
+
 Local File: 
 
 <b> Objective:</b>
