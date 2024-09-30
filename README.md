@@ -1,5 +1,12 @@
 # Web-Scrapping
-Different Ways for Scaping Data 
+Different Ways for Scaping Data :
+
+Project 1:
+Web Scrapping from Local File : 
+Local File: 
+
+<b> Objective:</b>
+In this project, I conducted web scraping using data from a local file with the `open` function in conjunction with Beautiful Soup. The objective was to extract course names along with their respective fees.
 
 
 ____
