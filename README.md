@@ -1,5 +1,5 @@
 # Web-Scrapping
-Different Ways for Scaping Data :
+<b>Different Ways for Scaping Data :</b>
 
 Project 1:
 Web Scrapping from Local File : https://github.com/Abhilash-Jose/Web-Scrapping/blob/main/Web%20Scrapping%20from%20Local%20File.ipynb
